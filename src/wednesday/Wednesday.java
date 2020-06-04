@@ -23,6 +23,7 @@ public class Wednesday {
         System.out.println("learning new about github");
         System.out.println("After commit second practice");
          System.out.println("learning pull operation");
+         System.out.println("learning fetch");
         
     }
 
